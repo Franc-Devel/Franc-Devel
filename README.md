@@ -20,6 +20,7 @@ También exploro ciencia de datos e inteligencia artificial aplicada como herram
 
 | Proyecto | Enfoque | Nota |
 | --- | --- | --- |
+| [En Orden Finanzas](https://github.com/Franc-Devel/En-Orden-Finanzas) | Sistema privado de finanzas personales y compartidas, con integraciones de IA y Telegram. | Presentación pública con arquitectura verificada y demo de datos sintéticos; sin datos de producción. |
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Sistema de productos, stock y turnos con Express y Prisma. | Proyecto académico colaborativo; código en developer, documentación en main. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Catálogo web de videojuegos con React y Vite. | Proyecto colaborativo de formación. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Consulta de clima mediante APIs REST con React y Vite. | Proyecto de aprendizaje. |
@@ -54,6 +55,7 @@ I also explore data science and applied artificial intelligence as tools to anal
 
 | Project | Focus | Note |
 | --- | --- | --- |
+| [En Orden Finanzas](https://github.com/Franc-Devel/En-Orden-Finanzas) | Private personal and shared finance system with AI and Telegram integrations. | Public showcase with verified architecture and a synthetic-data demo; no production data. |
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Product, inventory, and appointment system with Express and Prisma. | Collaborative academic project; code in developer, documentation in main. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Video game catalog web app built with React and Vite. | Collaborative training project. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Weather lookup through REST APIs with React and Vite. | Learning project. |
