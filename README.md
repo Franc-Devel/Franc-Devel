@@ -20,7 +20,7 @@ También exploro ciencia de datos e inteligencia artificial aplicada como herram
 
 | Proyecto | Enfoque | Nota |
 | --- | --- | --- |
-| [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM) | Diseño documentado de un sistema de productos, stock y turnos. | Proyecto académico colaborativo; la rama principal aún no incluye la implementación. |
+| [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Sistema de productos, stock y turnos con Express y Prisma. | Proyecto académico colaborativo; código en developer, documentación en main. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Catálogo web de videojuegos con React y Vite. | Proyecto colaborativo de formación. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Consulta de clima mediante APIs REST con React y Vite. | Proyecto de aprendizaje. |
 | [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Aplicación de escritorio en Python para explorar archivos CSV y Excel con pandas, visualizaciones y datos sintéticos. | Proyecto de análisis de datos. |
@@ -54,7 +54,7 @@ I also explore data science and applied artificial intelligence as tools to anal
 
 | Project | Focus | Note |
 | --- | --- | --- |
-| [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM) | Documented design for product, inventory, and appointment management. | Collaborative academic project; implementation is not included in the default branch. |
+| [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Product, inventory, and appointment system with Express and Prisma. | Collaborative academic project; code in developer, documentation in main. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Video game catalog web app built with React and Vite. | Collaborative training project. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Weather lookup through REST APIs with React and Vite. | Learning project. |
 | [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Python desktop app for exploring CSV and Excel files with pandas, visualizations, and synthetic data. | Data analytics project. |
