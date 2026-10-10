@@ -23,6 +23,7 @@ También exploro ciencia de datos e inteligencia artificial aplicada como herram
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM) | Gestión de productos, stock y turnos con API REST, Express, Prisma y MySQL. | Proyecto académico colaborativo. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Catálogo web de videojuegos con React y Vite. | Proyecto colaborativo de formación. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Consulta de clima mediante APIs REST con React y Vite. | Proyecto de aprendizaje. |
+| [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Aplicación de escritorio en Python para explorar archivos CSV y Excel con pandas, visualizaciones y datos sintéticos. | Proyecto de análisis de datos. |
 | [Portfolio](https://github.com/Franc-Devel/landing-page-porfolio) | Espacio para presentar proyectos y evolución técnica. | En desarrollo continuo. |
 
 ## Contacto
@@ -56,6 +57,7 @@ I also explore data science and applied artificial intelligence as tools to anal
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM) | Product, inventory, and appointment management with a REST API, Express, Prisma, and MySQL. | Collaborative academic project. |
 | [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Video game catalog web app built with React and Vite. | Collaborative training project. |
 | [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Weather lookup through REST APIs with React and Vite. | Learning project. |
+| [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Python desktop app for exploring CSV and Excel files with pandas, visualizations, and synthetic data. | Data analytics project. |
 | [Portfolio](https://github.com/Franc-Devel/landing-page-porfolio) | A place to present projects and technical growth. | Continuously evolving. |
 
 ## Get in touch
