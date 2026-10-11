@@ -18,14 +18,23 @@ También exploro ciencia de datos e inteligencia artificial aplicada como herram
 
 ## Proyectos seleccionados
 
+Portadas conceptuales: ilustraciones ficticias, no capturas de las aplicaciones. Las funciones y los límites están documentados en cada repositorio.
+
+| | |
+| --- | --- |
+| [![En-Orden-Finanzas · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/En-Orden-Finanzas/main/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/En-Orden-Finanzas)<br>**En-Orden-Finanzas** | [![Lubricentro-DYM · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/Lubricentro-DYM/main/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/Lubricentro-DYM)<br>**Lubricentro-DYM** |
+| [![Data-Analytics-Studio · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/Data-Analytics-Studio/main/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/Data-Analytics-Studio)<br>**Data-Analytics-Studio** | [![Francis-Gamer · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/Francis-Gamer/principal/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/Francis-Gamer)<br>**Francis-Gamer** |
+| [![landing-page-porfolio · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/landing-page-porfolio/main/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/landing-page-porfolio)<br>**landing-page-porfolio** | [![apiClima · portada conceptual](https://raw.githubusercontent.com/Franc-Devel/apiClima/main/assets/covers/cover-social.jpg)](https://github.com/Franc-Devel/apiClima)<br>**apiClima** |
+
+
 | Proyecto | Enfoque | Nota |
 | --- | --- | --- |
 | [En Orden Finanzas](https://github.com/Franc-Devel/En-Orden-Finanzas) | Sistema privado de finanzas personales y compartidas, con integraciones de IA y Telegram. | Presentación pública con arquitectura verificada y demo de datos sintéticos; sin datos de producción. |
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Sistema de productos, stock y turnos con Express y Prisma. | Proyecto académico colaborativo; código en developer, documentación en main. |
-| [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Catálogo web de videojuegos con React y Vite. | Proyecto colaborativo de formación. |
-| [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Consulta de clima mediante APIs REST con React y Vite. | Proyecto de aprendizaje. |
 | [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Aplicación de escritorio en Python para explorar archivos CSV y Excel con pandas, visualizaciones y datos sintéticos. | Proyecto de análisis de datos. |
+| [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Catálogo web de videojuegos con React y Vite. | Proyecto colaborativo de formación. |
 | [Portfolio](https://github.com/Franc-Devel/landing-page-porfolio) | Espacio para presentar proyectos y evolución técnica. | En desarrollo continuo. |
+| [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Consulta de clima mediante APIs REST con React y Vite. | Proyecto de aprendizaje. |
 
 ## Contacto
 
@@ -57,10 +66,10 @@ I also explore data science and applied artificial intelligence as tools to anal
 | --- | --- | --- |
 | [En Orden Finanzas](https://github.com/Franc-Devel/En-Orden-Finanzas) | Private personal and shared finance system with AI and Telegram integrations. | Public showcase with verified architecture and a synthetic-data demo; no production data. |
 | [Lubricentro DyM](https://github.com/Franc-Devel/Lubricentro-DYM/tree/developer) | Product, inventory, and appointment system with Express and Prisma. | Collaborative academic project; code in developer, documentation in main. |
-| [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Video game catalog web app built with React and Vite. | Collaborative training project. |
-| [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Weather lookup through REST APIs with React and Vite. | Learning project. |
 | [Data Analytics Studio](https://github.com/Franc-Devel/Data-Analytics-Studio) | Python desktop app for exploring CSV and Excel files with pandas, visualizations, and synthetic data. | Data analytics project. |
+| [Francis Gamer](https://github.com/Franc-Devel/Francis-Gamer) | Video game catalog web app built with React and Vite. | Collaborative training project. |
 | [Portfolio](https://github.com/Franc-Devel/landing-page-porfolio) | A place to present projects and technical growth. | Continuously evolving. |
+| [Weather Dashboard](https://github.com/Franc-Devel/apiClima) | Weather lookup through REST APIs with React and Vite. | Learning project. |
 
 ## Get in touch
 
